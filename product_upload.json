@@ -1,0 +1,532 @@
+[{
+  "_id": {
+    "$oid": "63b63394c36b7ba3db328781"
+  },
+  "productname": "AMD Ryzen 3 4100 Processor",
+  "category": "processor",
+  "brand": "AMD",
+  "price": "10,500৳",
+  "description": "AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. This processor stands with a Base Clock of 3.8GHz and a Maximum Boost Clock of 4.0GHz. It has 256KB L1 Cache. 2MB L2 Cache, 4MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This AMD processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. This Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology, AMD \"Zen 2\" Core Architecture, and AMD Ryzen VR-Ready Premium. The built-in AMD StoreMI Technology is a fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance. AMD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also features the AMD Ryzen VR-Ready Premium for the best possible VR experiences. It comes with Wraith Stealth Cooling ",
+  "img": "amd-ryzen-3-4100.jpg",
+  "Base Frequency": "3.8GHz",
+  "Maximum Turbo Frequency": "4.0GHz",
+  "Cache": "L1 Cache: 256KB L2 Cache: 2MB L3 Cache: 4MB",
+  "Cores": "4",
+  "Default TDP": "65W",
+  "cTDP": "46-65W",
+  "Supported Technologies": "AMD SenseMI Technology AMD Ryzen Master Utility Enmotus FuzeDrive for AMD Ryzen Radeon Software Radeon FreeSync Technology AMD StoreMI Technology AMD \"Zen 2\" Core Architecture AMD Ryzen VR-Ready Premium",
+  "Maximum Speed": "3200MHz",
+  "Type": "DDR4",
+  "Max Number of Channels": "2",
+  "Manufacturing Warranty": "03 years (No Warranty for Fan or Cooler)",
+  "others": "...."
+},{
+  "_id": {
+    "$oid": "63b63549c36b7ba3db328782"
+  },
+  "productname": "AMD Ryzen 5 5600X Processor",
+  "category": "processor",
+  "brand": "AMD",
+  "price": "20,000৳",
+  "description": "That isn't the only change from Zen 2 to Zen 3, however. Since it is a gaming-focused CPU, the move to a single eight-core core complex (CCX) design in Zen 3 gives the 5600X a leg up over the Ryzen 5 3600X. In the Ryzen 5 3600X, the processor was split between two four-core CCXs, made up of two dual-core core chiplet dies (CCDs) each, with one CCX disabled in the second CCD. Having the cores spread across two CCDs meant that there was increased travel time for any tasks that utilized all six cores at once, which, for example, games like GTA V and titles in the Civilization series are both known for. By that same note, lightly threaded titles like Counter-Strike: Global Offensive and Rainbow Six: Siege both suffered slightly on the Ryzen 5 3600X and on the follow-up refresh in the Zen 2 stack, due to increased latency. No more, though. Now that all the cores of the Ryzen 5 5600X have been centralized into a single CCX design, AMD's engineers have reduced the travel time between cores and decreased the latency at the same time.",
+  "img": "amd-ryzen-5600.jpg",
+  "Base Frequency": "3.7GHz",
+  "Maximum Turbo Frequency": "Up to 4.6GHz",
+  "Cache": "Total L2 Cache: 3MB Total L3 Cache: 32MB",
+  "Cores": "6",
+  "Threads": "12",
+  "Default TDP": "65W",
+  "cTDP": "65W",
+  "Supported Technologies": "AMD \"Zen 3\" Core Architecture AMD StoreMI Technology AMD Ryzen Master Utility AMD Ryzen VR-Ready Premium",
+  "Maximum Speed": "Up to 3200MHz",
+  "Type": "DDR4",
+  "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+},{
+  "_id": {
+    "$oid": "63b63669c36b7ba3db328783"
+  },
+  "productname": "AMD Ryzen 9 7900X Processor",
+  "category": "processor",
+  "brand": "AMD",
+  "price": "66,800৳",
+  "description": "The AMD Ryzen 9 7900X is based on the 5. generation of the AMD Ryzen 9 series which features 12 cores and 24 threads. The motherboard for the CPU has an AM5 socket. It belongs to the Ryzen 9 family and is compatible with Socket AM5 and the Zen 4 (Raphael) architecture. Simultaneous Multithreading (SMT) from AMD effectively doubles the number of cores to 24 threads. The Ryzen 9 7900X features 64MB of L3 cache and runs at 4.7 GHz by default, but depending on the workload, it can accelerate to 5.6 GHz. AMD is employing 13,140 million transistors and a 5 nm manufacturing technique to create the Ryzen 9 7900X. The TSMC foundry produces the silicon dies for the chip, not AMD. The unlocked multiplier on the Ryzen 9 7900X is fully adjustable, making it much easier to tune in any overclocking frequency. CPU Cores, Base Frequency & Internal Graphics In addition to the number of CPU cores and threads, you can see here whether the AMD Ryzen 9 7900X can be overclocked. You will also find the clock frequencies of the processor (single-core and multi-core) here. The number of CPU cores greatly affects the speed of the processor. Memory, PCIe Thermal Management The memory type as well as the amount of memory can greatly affect the speed of the processor. The memory bandwidth depends on several factors and is given in gigabytes per second. The Thermal Design Power (TDP for short) specifies the necessary cooling solution to cool the processor sufficiently. The TDP usually only gives a rough idea of the real consumption of a CPU. The AMD Ryzen 9 7900X Processor comes with a 03 years warranty (No Warranty for Fan or Cooler).",
+  "img": "ryzen-9-7950x.PNG",
+  "Base Frequency": "4.7GHz",
+  "Maximum Turbo Frequency": "Up to 5.6GHz",
+  "Cache": "Total L1 Cache: 768KB Total L2 Cache: 12MB Total L3 Cache: 64MB",
+  "Cores": "12",
+  "Threads": "24",
+  "Default TDP": "170W",
+  "Supported Technologies": "AMD EXPO Technology AMD Ryzen Technologies",
+  "Max Number of Channels": "2",
+  "Processor Graphics": "AMD Radeon Graphics",
+  "Graphics Base Frequency": "400 MHz",
+  "Max Dynamic Frequency": "2200 MHz",
+  "Core Count": "2",
+  "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+},{
+  "_id": {
+    "$oid": "63b641af80435926912fa1e6"
+  },
+  "productname": "Intel 10th Gen Core i3 10100F Processor",
+  "category": "processor",
+  "brand": "Intel",
+  "price": "8,500৳",
+  "description": "This processor comes with a new breed that come without an integrated GPU, so a separate graphics card is required for its functionality. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup Core Benefits of the Processor Intel 10th Generation Core i3-10100F Processor having the base frequency of 3.60 GHz that can be reached as max turbo frequency at 4.30 GHz. It has the L3 SmartCache of 6 MB containing 4 cores and 8 threads. With the bus speed of 8 GT/s DMI3, it has thermal design power (TDP) rating of 65W. This latest microchip has few expansion options such 3.0 PCI express revision having configured up to 1x16, 2x8, 1x8+2x4 and maximum 16 lanes. Considering the memory this processor has dual channel of max 128 GB of size that supports up to DDR4-2666 bus speed. Advanced Facilities On the process of advance technology this processor has 2.0 Intel turbo boost and Intel virtualization that is directed to I/O (VT-d). This Optaneâ„¢ Memory supported chip also has Intel VT-x with extended page tables (EPT). Furthermore, Enhanced Intel SpeedStepÂ® and IntelÂ® Identity Protection Technology are integrated to increase its efficiency. Enjoy this latest processor at best price with 03 years of warranty facility (No Warranty for Fan or Cooler).",
+  "img": "i3-10100.jpg",
+  "Base Frequency": "3.60 GHz",
+  "Maximum Turbo Frequency": "4.30 GHz",
+  "Cache": "6 MB SmartCache",
+  "Cores": "4",
+  "Threads": "8",
+  "Default TDP": "65 W",
+  "Maximum Size": "128 GB",
+  "Maximum Speed": "41.6 GB/s",
+  "Type": "DDR4-2666",
+  "Max Number of Channels": "2",
+  "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+},{
+  "_id": {
+    "$oid": "63b653d888ff34c46ff7b46b"
+  },
+  "productname": "Intel 12th Gen Core i5-12500 Alder Lake Processor",
+  "category": "processor",
+  "brand": "Intel",
+  "price": "25,000৳",
+  "description": "Intel 12th Gen Core i5-12500 Alder Lake Processor The latest Intel Core i5-12500 processor comes with 6 cores and 12 threads. It has a base frequency of 3.00 GHz and a maximum boost frequency of up to 4.60 GHz. The i5-12500 Alder Lake Processor comes with an 18 MB Intel Smart Cache and 7.5 MB of total L2 Cache. TDP values are maintained at 65 W. The Intel Core i5-12500 is supported with LGA1700 Sockets and the size of the CPU is 45.0 mm x 37.5 mm. Core Benefits of the Processor The Intel Core i5-12500 Alder Lake CPU supports both DDR5 and DDR4 memory controllers. High-end motherboards will retain DDR5 while the more mainstream offerings will open up DDR4 support too. It supports up to DDR5 4800 MT/s and up to DDR4 3200 MT/s. The max number of memory channels is 2 and they support 128 GB of maximum memory size in total. It features maximum bandwidth of 76.8 GB/s. The Processor also comes with Intel UHD Graphics 770 graphics that has a base frequency of 300 MHz and 1.45 GHz of maximum dynamic frequency. It supports eDP 1.4b, DP 1.4a, HDMI 2.1 graphics output options. The latest Intel 12th Gen Core i5-12500 comes with 03 years warranty (No Warranty for Fan or Cooler).",
+  "img": "i5-12500.jpg",
+  "Base Frequency": "3.00 GHz",
+  "Maximum Turbo Frequency": "4.60 GHz",
+  "Cache": "18 MB Intel Smart Cache",
+  "Cores": "6",
+  "Threads": "12",
+  "Default TDP": "65W",
+  "Maximum Size": "128 GB",
+  "Maximum Speed": "76.8 GB/s",
+  "Type": "Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s",
+  "Max Number of Channels": "2",
+  "Max Resolution": "HDMI: 4096 x 2160 @ 60Hz DP: 7680 x 4320 @ 60Hz eDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz",
+  "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+},{
+  "_id": {
+    "$oid": "63b6548188ff34c46ff7b46c"
+  },
+  "productname": "ASRock B550 Pro4 DDR4 AMD Motherboard",
+  "category": "motherboard",
+  "brand": "ASRock",
+  "price": "18,900৳",
+  "description": "Features sturdy components and completely smooth power delivery to the CPU. Plus, it provides unmatched overclocking capabilities and enhanced performance with the lowest temperature for advanced gamers as well. ASRock B550M along the onboard LAN port, users may also choose 802.11ac wireless connections by M.2 (Key E) slot.. The Sound Tracker is the visual indicator that points out the directions from which predominant sounds are coming. Each sound is properly positioned in 360Â° on a radar for a full immersion during the game.Whether user is using headphones, a headset, external or internal speakers, via USB, Wi-Fi, analog output or even HDMI, Nahimic Audio offers user the most engaging listening experience, vibrant and rich with details. This motherboard features onboard RGB headers and an addressable RGB header that permits motherboard to be connected to compatible LED devices such as strip, CPU fans, coolers, chassis and many more. Extra large aluminum alloy heat sinks that effectively take away heat from the MOSFET and chipset so that user's whole system may perform more stable. Also, 2oz Copper PCB delivers lower temperature and higher energy efficiency for overclocking. High Density Glass Fabric PCB design that diminishes the gaps between the PCB layers to protect the motherboard from electrical shorts caused by humidity. Packed with a D-Sub + DisplayPort + HDMI combo. Plus the HDMI port supports 4K resolution. Some sensitive digital components on the motherboard are vulnerable to power surges, the excessive current may cause the system to malfunction immediately. ASRock Full Spike Protection includes various technologies to prevent motherboardâ€™s components from being damaged by these unexpected voltage spikes. ASRock Live Update & APP Shop is designed for user's convenience. Provides various apps and support software for users to download. This exclusive ASRock B550 Pro4 comes with 03 years of warranty.",
+  "img": "b550-pro4-1.jpg",
+  "Supported": "- Supports 3rd Gen AMD AM4 Ryzen/ future AMD Ryzen Processors",
+  "CPU": "- Digi Power design - 8 Power Phase design",
+  "Chipset": "AMD B550",
+  "BIOS": "- 256Mb AMI UEFI Legal BIOS with GUI support - Supports \"Plug and Play\" - ACPI 5.1 compliance wake up events - Supports jumperfree - SMBIOS 2.3 support - CPU, CPU VDDCR_SOC, DRAM, VPPM, 1.05V_PROM_S5, 2.5V_PROM, +1.8VSB, VDDP Voltage Multi-adjustment",
+  "Manufacturing Warranty": "03 Years Warranty"
+},{
+  "_id": {
+    "$oid": "63b655dd88ff34c46ff7b46e"
+  },
+  "productname": "ASUS TUF Gaming GeForce GTX 1630 4GB GDDR6 Graphics Card",
+  "category": "graphics_card",
+  "brand": "ASUS",
+  "price": "15,000৳",
+  "description": "The ASUS TUF Gaming GeForce GTX 1630 4GB Graphics Card is built with the breakthrough graphics performance of the award-winning NVIDIA Turing architecture to supercharge your favorite games. It features ultra-fast GDDR6 with over 50% more memory bandwidth for high-speed gaming. Here, GeForce Experience lets you capture and share videos, screenshots, and live streams with friends, keep GeForce drivers up to date, and easily optimize your in-game settings. This latest Graphics card also comes with an Axial-tech fan design that features a smaller fan hub that facilitates longer blades and a barrier ring that increases downward air pressure. Here, The Dual ball fan bearings can last up to twice as long as a sleeve bearing design, and also Auto-Extreme Technology uses automation to enhance reliability with A compact design that maximizes compatibility. The mounting bracket of the Phoenix has been beefed up with 304 Stainless Steel which is harder and more resistant to corrosion. The ASUS TUF Gaming GeForce GTX 1630 4GB Graphics Card has a stainless steel bracket that is harder and more resistant to corrosion and also The GPU Tweak II provides intuitive performance tweaking, thermal controls, and system monitoring. The ASUS Tweak II utility takes graphics card tuning to the next level. It allows you to tweak critical parameters including GPU core clocks, memory frequency, and voltage settings, with the option to monitor everything in real time through a customizable on-screen display. Advanced fan control is also included along with many more features to help you get the most out of your graphics card. This graphics card supports NVIDIA G-SYNC display technology for a super-smooth variable refresh rate experience. You can enjoy AAA games without the nuisance of screen tearing or stuttering. The ASUS TUF Gaming GeForce GTX 1630 4GB Graphics Card comes with 3 years warranty.",
+  "img": "asus tuf-gaming-geforce-gtx-1630-4gb.jpeg",
+  "Type": "GDDR6",
+  "Size": "4GB",
+  "Resolution": "7680 x 4320",
+  "Core Clock": "OC mode: 1815MHz (Boost Clock) Gaming mode: 1785MHz(Boost Clock)/ 1740MHz(Base Clock)",
+  "Display Port": "1 x DisplayPort 1.4a",
+  "HDMI": "1 x HDMI 2.0b",
+  "Manufacturing Warranty": "03 Years Warranty"
+},{
+  "_id": {
+    "$oid": "63b6575388ff34c46ff7b46f"
+  },
+  "productname": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
+  "category": "ram",
+  "brand": "corsair",
+  "price": "3,500৳",
+  "description": "none",
+  "img": "CORSAIR VENG_LPX_BLK_01-.png",
+  "size": "8GB",
+  "Speed": "3200MHz",
+  "Tested Latency": "16-20-20-38",
+  "Voltage": "1.35V",
+  "Warranty": "lifetime"
+},{
+  "_id": {
+    "$oid": "63b657f688ff34c46ff7b470"
+  },
+  "productname": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM",
+  "category": "ram",
+  "brand": "gskill",
+  "price": "8,500৳",
+  "description": "Building on the strong success of G.SKILL Trident series, Trident Z series represents one of the worldâ€™s highest performance DDR4 memory designed for overclocking enthusiasts and extreme gamers. Building on the strong success of G.SKILL Trident series, Trident Z series represents one of the world's highest performance DDR4 memory designed for PC enthusiasts and extreme gamers. Using only the best-in-class components and featuring luxurious hair-line finish aluminum heat-spreaders, Trident Z series is the state-of-the-art DDR4 solution that combines performance and beauty for PC enthusiasts and extreme overclockers to build an ultra-fast PC or achieve new overclocking records. Designed for PC enthusiasts, overclockers, and extreme gamers, the Trident Z series DDR4 is built with specially screened ICs qualified under the legendary G.SKILL selection process, and rigorously tested for reliability, compatibility, and performance across a wide range of motherboards. Built for the highest performance, G.SKILL Trident Z series memory is the world's first to bring DDR4 4000MHz to XMP rated speed on the first launch, as well as the world's first memory to break the DDR4-5000MHz overclocking world record barrier. Trident Z series maintains the aggressive fin design for highly efficient heat dissipation, while introducing luxurious hair-line finish aluminum heat-spreaders. Look no further for a memory that combines performance and beauty for building a stylish, modern PC! No compromises! These extreme speed memory kits not only come in kits of 4GB and 8GB modules; a series of ultra high speed 16GB modules are also available in Trident Z series. Build your dream supercomputer with up to DDR4 128GB (16GBx8) of ultra-capacity at ultra-high frequencies! All Trident Z DDR4 memory kits are tested with G.SKILL's rigorous validation process on major performance motherboard brands to ensure the best-in-class reliability and compatibility across the widest selection of motherboards. Just set and go. Programmed with the latest Intel XMP 2.0 profiles, the only thing between you and extreme performance is a simple setting.",
+  "img": "trident-z-8gb-.jpg",
+  "Type": "DDR4",
+  "Capacity": "8GB",
+  "Frequency": "3200MHz",
+  "Operating voltage": "1.35V",
+  "Latency": "Latency",
+  "Warranty": "Life Time"
+},{
+  "_id": {
+    "$oid": "63b6588d88ff34c46ff7b471"
+  },
+  "productname": "Samsung 970 EVO Plus 500GB NVMe M.2 SSD",
+  "category": "storage",
+  "brand": "Samsung",
+  "price": "8,500৳",
+  "description": "The ultimate in performance, upgraded. Faster than the 970 EVO, the 970 EVO Plus is powered by the latest V-NAND technology and firmware optimization. It maximizes the potential of NVMe bandwidth for unbeatable computing. Comes in capacities of up to 1TB.The 970 EVO Plus reaches sequential read/write speeds up to 3,500/3,300 MB/s, up to 53% faster than the 970 EVO. Powered by the latest V-NAND technologyâ€”which brings greater NAND performance and higher power efficiencyâ€”along with optimized firmware, a proven Phoenix controller, and Intelligent TurboWrite boost speed.The next advancement in NVMe SSDs. The 970 EVO Plus fits up to 1TB onto the compact M.2 (2280) form factor, greatly expanding storage capacity and saving space for other components. Samsung's innovative technology empowers you with the capacity to do more and accomplish more.Achieve a new level of drive confidence. Samsung's advanced nickel-coated controller and heat spreader on the 970 EVO Plus enable superior heat dissipation. The Dynamic Thermal Guard automatically monitors and maintains optimal operating temperatures to minimize performance drops.Advanced drive management made simple. The Samsung Magician software will help you keep an eye on your drive. A suite of user-friendly tools helps keep your drive up to date, monitor drive health and speed, and even boost performance.",
+  "img": "SAMSUNG 970-evo-plus-500x500.jpg",
+  "Capacity": "500GB",
+  "Form Factor": "M.2 (2280)",
+  "Flash Type": "Samsung V-NAND 3-bit MLC",
+  "Interface": "PCIe Gen 3.0 x 4, NVMe 1.3",
+  "Manufacturing Warranty": "03 Years"
+},{
+  "_id": {
+    "$oid": "63c50126851c32bb9a088810"
+  },
+  "productname": "Intel 13th Gen Core i7 13700K Raptor Lake Processor",
+  "category": "processor",
+  "brand": "Intel",
+  "price": "50,000৳",
+  "description": "The Intel Core i7-13700K 3.4 GHz 16-Core LGA 1700 Processor will boost your productivity, gaming, and content production. This 13th-generation desktop CPU expands on the Hybrid Core design and Intel 7 process by packing 16 cores onto a single chip, four more than the prior generation, while still fitting the LGA 1700 socket. The Core i7-13700K is designed for great performance, with eight low-voltage Efficient-cores that handle background activities for multitasking, and eight 3.4 GHz Performance-cores that deliver speed for demanding programs and games. The built-in Intel Thread Director guarantees that the two function in unison by dynamically and intelligently distributing tasks to the appropriate core at the appropriate moment. With 30MB of cache and a Turbo Boost Max 3.0 clock of 5.4 GHz, this CPU is designed to tackle demanding applications. The Core i7-13700K features integrated Intel UHD 770 Graphics. This CPU may also be overclocked for increased performance. PCI Express 5.0 and dual-channel DDR5 ECC memory at 5600 MHz are also supported by the Core i7-13700K. This Processor comes with a 03-year warranty.",
+  "img": "core-i7-13700k.jpeg",
+  "Base Frequency": "3.40 GHz",
+  "Maximum Turbo Frequency": "5.40 GHz",
+  "Cache": "30 MB",
+  "Cores": "16",
+  "Threads": "24",
+  "Default TDP": "125W",
+  "Maximum Size": "128 GB",
+  "Type": "Up to DDR5 5600 MT/s Up to DDR4 3200 MT/s",
+  "Max Number of Channels": "2",
+  "Processor Graphics": "Intel UHD Graphics 770",
+  "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz Max Resolution (DP): 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @ 120Hz",
+  "Manufacturing Warranty": "03 years warranty"
+},{
+  "_id": {
+    "$oid": "63c50236851c32bb9a088811"
+  },
+  "productname": "ASRock B660M Phantom Gaming 4 12th Gen Micro ATX Motherboard",
+  "category": "motherboard",
+  "brand": "ASRock",
+  "price": "15,200৳",
+  "description": "The ASRock B660M Phantom Gaming 4 Motherboard supports 12th Gen Intel Core Processors (LGA1700). It features 9 Phase Dr.MOS Power Design and it supports DDR4 5000MHz (OC). It supports the lighting speed of the latest PCIe 5.0 standard. The latest PCI Express 5.0 is capable to perform a breathtaking bandwidth of 128GBps, ready to unleash the full potential of future high-end graphic cards. It features onboard RGB headers and an addressable RGB header that allow the motherboard to be connected to compatible LED devices such as strip, CPU fans, coolers, chassis, and so on. Users may also synchronize RGB LED devices across the Polychrome RGB Sync-certified accessories to create their own unique lighting effects.",
+  "img": "b660m-phantom-gaming.jpg",
+  "Supported CPU": "- Supports 12th Gen Intel Core Processors (LGA1700) - Digi Power design - 8 Power Phase design - Supports Intel Hybrid Technology - Supports Intel Turbo Boost Max 3.0 Technology",
+  "Chipset": "Intel B660",
+  "BIOS": "- 128Mb AMI UEFI Legal BIOS with multilingual GUI support - ACPI 6.0 Compliant wake up events - SMBIOS 2.7 Support - CPU Core/Cache, CPU GT, DRAM, VDD_IMC, VCCIN AUX, +1.05V PROC, +0.82V PCH, +1.05V PCH Voltage Multi-adjustment",
+  "Form Factor": "- Micro ATX Form Factor: 9.6-in x 9.6-in, 24.4 cm x 24.4 cm - Solid Capacitor design",
+  "Type": "Dual Channel DDR4 Memory Technology",
+  "Slots": "4 x DDR4 DIMM Slots",
+  "Maximum Memory": "128GB",
+  "HDMI": "1 x HDMI Port",
+  "Display Port (s)": "1 x DisplayPort 1.4",
+  "Manufacturing Warranty": "3 years"
+},{
+  "_id": {
+    "$oid": "63c503fb851c32bb9a088812"
+  },
+  "productname": "GIGABYTE H610M H DDR4 12th Gen Micro ATX Motherboard",
+  "category": "motherboard",
+  "brand": "GIGABYTE",
+  "price": "9,900৳",
+  "description": "The GIGABYTE H610M H DDR4 features LGA1700 socket Support for 12th Generation Intel Core, Pentium Gold, and Celeron Processors. It comes with Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs. It has a 6+1+1 Hybrid Digital VRM Design. Solid capacitors to improve transient response and minimize oscillation. It is equipped with Realtek 8118 LAN is a high-performance and friendly network chip for gaming players with automatic bandwidth allocation to ensure the highest network priority of the game or application. It features solid plated ATX 12V 8pin power connectors to offer a stable power supply during CPU overloading. It has Smart Fan 6 Features Multiple Temperature Sensors, Hybrid Fan Headers with FAN STOP. It is designed with HDMI / D-Sub Ports for Multiple Displays. The GIGABYTE H610M H DDR4 motherboard comes with 3 years of warranty.",
+  "img": "gigbyteh610m-h-ddr4-01-500x500.jpg",
+  "Supported CPU": "LGA1700 socket: Support for 12th Generation Intel Core, Pentium Gold and Celeron Processors L3 cache varies with CPU",
+  "Chipset": "Intel H610 Express Chipset",
+  "BIOS": "1 x 256 Mbit flash Use of licensed AMI UEFI BIOS PnP 1.0a, DMI 2.7, WfM 2.0, SM BIOS 2.7, ACPI 5.0",
+  "Form Factor": "Micro ATX Form Factor; 23.0cm x 21.5cm",
+  "Audio": "Realtek Audio CODEC High Definition Audio 2/4/5.1/7.1-channel",
+  "PCI": "1 x PCI Express x16 slot, running at x16 * For optimum performance, if only one PCI Express graphics card is to be installed, be sure to install it in the PCIEX16 slot. (The PCI Express x16 slot conforms to PCI Express 4.0 standard.) 1 x PCI Express x1 slot (The PCI Express x1 slot conforms to PCI Express 3.0 standard.)",
+  "Type": "DDR4",
+  "Slots": "2 x DDR DIMM sockets",
+  "Supported Memory": "3200/ 3000/ 2933/ 2666/ 2400/ 2133 MHz memory modules Dual channel memory architecture Support for ECC Un-buffered DIMM 1Rx8/2Rx8 memory modules (operate in non-ECC mode) Support for non-ECC Un-buffered DIMM 1Rx8/2Rx8/1Rx16 memory modules Support for Extreme Memory Profile (XMP) memory modules",
+  "Maximum Memory": "Up to 64 GB (32 GB single DIMM capacity) of system memory",
+  "HDMI": "1 x HDMI 2.0 port",
+  "USB (s)": "Chipset: 4 x USB 3.2 Gen 1 ports (2 ports on the back panel, 2 ports available through the internal USB header) 4 x USB 2.0/1.1 ports on the back panel",
+  "TPM (Trusted Platform Module )": "1 x Trusted Platform Module header (For the GC-TPM2.0 SPI/GC-TPM2.0 SPI 2.0 ",
+  "Manufacturing Warranty": "3 years"
+},{
+  "_id": {
+    "$oid": "63c50517851c32bb9a088813"
+  },
+  "productname": "Asus Prime Z690M-PLUS D4 Intel 12th Gen microATX Motherboard",
+  "category": "motherboard",
+  "brand": "Asus",
+  "price": "22,200৳",
+  "description": "The Asus Prime Z690M-PLUS D4 Motherboard features Intel LGA 1700 socket Ready for 12th Gen Intel Core, Pentium Gold, and Celeron Processors. Asus Prime series motherboards are expertly engineered to unleash the full potential of 12th Generation Intel processors. It comes with an enhanced power solution. 10+1 DrMOS, 4-pin+8-pin ProCool connector, alloy chokes, and durable capacitors for stable power delivery. It features Large VRM heatsinks, PCH heatsink, hybrid fan headers, and Fan Xpert 4. The Asus Prime Z690M-PLUS D4 is supported with DDR4, PCIe 5.0, Intel 1 Gb Ethernet, USB 3.2 Gen 2x2 Type-C, front panel USB 3.2 Gen 1 Type-C, Thunderbolt 4 header. The Asus Prime Z690M-PLUS D4 offers a sleek, futuristic-looking build with a black and white finish, space-shuttle-inspired design elements, metallic nameplate, and PCB cover. Asus 5-Way Optimization makes your PC smart. Along with taking care of complex tuning and dynamically optimizing essential aspects of your system, it provides overclocking profiles that are tailored for your rig. Prime Z690 series is engineered with multiple onboard heatsinks and an array of hybrid fan headers to ensure your rig stays cool and stable under intense workloads. Two M.2 heatsinks take care of the three M.2 slots, warding off throttling that can occur with M.2 storage during sustained transfers. Prime Z690M-PLUS D4 offers a total of four M.2 slots that support data-transfer speeds of up to 64 Gbps via PCIe 4.0, enabling quicker boot-up and app load times with OS or application drives. The Asus Prime Z690M-PLUS D4 comes with 3 years of warranty.",
+  "img": "asus prime-z690m-plus-.jpg",
+  "Supported CPU": "Intel Socket LGA1700 for 12th Gen Intel Core, Pentium Gold, and Celeron Processors Supports Intel Turbo Boost Technology 2.0 and Intel Turbo Boost Max Technology 3.0",
+  "Chipset": "Z690",
+  "BIOS": "192 (128+64) Mb Flash ROM, UEFI AMI BIOS",
+  "Form Factor": "microATX 24.4cm x 24.4cm",
+  "PCI": "Intel 12th Gen Processors 1 x PCIe 5.0/4.0/3.0 x16 slot  Intel Z690 Chipset 1 x PCIe 4.0/3.0 x16 slot (supports x4 mode) 2 x PCIe 3.0 x1 slots",
+  "Type": "DDR4",
+  "Slots": "4 x DIMM",
+  "Maximum Memory": "128GB",
+  "Graphics": "1 x DisplayPort (Supports max. 8K@60Hz as specified in DisplayPort 1.4) 1 x HDMI port (Supports 4K@60Hz as specified in HDMI 2.1)",
+  "HDMI": "1 x DisplayPort",
+  "Display Port (s)": "1 x HDMI port",
+  "USB (s)": "Rear USB:Total 8 ports 1 x USB 3.2 Gen 2x2 port (1 x USB Type-C) 1 x USB 3.2 Gen 2 port (1 x Type-A) 4 x USB 3.2 Gen 1 ports (4 x Type-A) 2 x USB 2.0 ports (2 x Type-A)  Front USB:Total 7 ports 1 x USB 3.2 Gen 1 connector (supports USB Type-C)",
+  "LAN Port (s)": "1 x Intel 1Gb Ethernet",
+  "Wireless Communication module": "M.2 slot only (Key E, CNVi & PCIe)",
+  "Audio": "3 x Audio jacks",
+  "TPM (Trusted Platform Module )": "1 x SPI TPM header (14-1pin)",
+  "Manufacturing Warranty": "3 years"
+},{
+  "_id": {
+    "$oid": "63c506fa851c32bb9a088814"
+  },
+  "productname": "GIGABYTE B650M AORUS ELITE AX DDR5 AMD AM5 Micro-ATX Motherboard",
+  "category": "motherboard",
+  "brand": "GIGABYTE",
+  "price": "29,500৳",
+  "description": "The GIGABYTE B650M AORUS ELITE AX Motherboard supports AMD Ryzen 7000-series processors for socket AM5. It equips the best VRM design ever built with the highest quality components and comes with direct 12+2+1 Phases Digital VRM Solution. It offers advanced thermal heatsinks to improve thermal efficiency with better airflow and heat exchange. It comes with 2x PCIe 4.0 x4 M.2 Connectors. The M.2 Thermal Guard prevents throttling and bottlenecks from high-speed M.2 SSDs as it helps to dissipate heat before it becomes an issue. This motherboard features 2X copper PCBs design effectively lowering the component temperature through its high thermal conductivity and low impedance. The Smart Fan 6 contains several unique cooling features that ensure the gaming PC maintains its performance while staying cool and quiet. Each fan headers support PWM and DC fan and Water Cooling Pump, and up to 24W (12V x 2A) with Over-Current Protection. The GIGABYTE B650M AORUS ELITE AX Motherboard comes with 2.5G LAN which provides up to 2.5 GbE network connectivity, with at least 2 times faster transfer speeds compared to general 1GbE networking. It also supports Multi-Gig(10/100/1000/2500Mbps) RJ-45 Ethernet. The USB 3.2 Gen 2 ports provide speeds up to 10Gbps. With twice the bandwidth compared to its previous generation, The GIGABYTE B650M AORUS ELITE AX Motherboard comes with 3 years of warranty.",
+  "img": "gigabyteb650m-aorus-elite.jpeg",
+  "Supported CPU": "AMD Socket AM5, support for: AMD Ryzen 7000 Series Processors",
+  "Chipset": "AMD B650",
+  "BIOS": "1 x 256 Mbit flash Use of licensed AMI UEFI BIOS PnP 1.0a, DMI 2.7, WfM 2.0, SM BIOS 2.7, ACPI 5.0",
+  "Form Factor": "Micro ATX Form Factor; 24.4cm x 24.4cm",
+  "Audio": "Realtek Audio CODEC High Definition Audio 2/4/5.1/7.1-channel * You can change the functionality of an audio jack using the audio software. To configure 7.1-channel audio, access the audio software for audio settings. Support for S/PDIF Out",
+  "PCI": "CPU: 1 x PCI Express x16 slot, supporting PCIe 4.0 and running at x16 (PCIEX16) * For optimum performance, if only one PCI Express graphics card is to be installed, be sure to install it in the PCIEX16 slot. Chipset: 1 x PCI Express x16 slot, supporting PCIe 4.0 and running at x4 (PCIEX4)",
+  "Type": "DDR5",
+  "Slots": "4 DIMMs",
+  "Supported Memory": "6666(OC) / 6600(OC) / 6400(OC) / 6200(OC) / 6000(OC) / 5600(OC) / 5200 / 4800 / 4400 MT/s memory modules Dual channel memory architecture Support for non-ECC Un-buffered DIMM 1Rx8/2Rx8/1Rx16 memory modules Support for AMD EXtended Profiles for Overclocking (AMD EXPO) and Extreme Memory Profile (XMP) memory modules",
+  "Maximum Memory": "128GB",
+  "HDMI": "1x HDMI",
+  "Display Port (s)": "1 x DisplayPorts",
+  "Manufacturing Warranty": "3 Years"
+},{
+  "_id": {
+    "$oid": "63c5083f851c32bb9a088815"
+  },
+  "productname": "MSI MPG Z590 Gaming Plus Intel 10th Gen and 11th Gen ATX Motherboard",
+  "category": "motherboard",
+  "brand": "MSI",
+  "price": "21,300৳",
+  "description": "MSI conducts thorough memory testing with the most popular memory brands under extreme conditions to ensure your system runs stable no matter what. Here, 2.5Gbps LAN provides incredible data transfer speed faster than general Gigabit LAN. This is a premium solution for demanding users. MSI MPG Z590 Gaming Plus Motherboard Supports 11th and 10th Gen Intel Core / Pentium Celeron processors for LGA 1200 socket, DDR4 Memory, up to 5333(OC) MHz, This Motherboard will provide you Lightning Fast Game experience with PCIe 4.0, Lightning Gen 4 x4 M.2, USB 3.2 Gen 2x2. It comes with Enhanced Power Design like- 14+1+1 Duet Rail Power System, dual 8-pin CPU power connectors, Core Boost, DDR4 Boost. In this Motherboard Premium Thermal Solution, Enlarged heatsink with heat-pipe, MOSFET thermal pads rated for 7W/mK, additional choke thermal pads and 3x M.2 Shield Frozr are built for high performance system and non-stop gaming experience. This Motherboard has MYSTIC LIGHT: 16.8 million colors / 29 effects controlled in one click. MYSTIC LIGHT EXTENSION supports both RGB and RAINBOW LED strip. The 2.5G LAN with LAN Manager: Upgraded network solution for professional and multimedia use. Delivers a secure, stable and fast network connection. The AUDIO BOOST 5, Reward your ears with studio grade sound quality for the most immersive gaming experience. In this Motherboard High Quality PCB comes with 6-layer PCB made by 2oz thickened copper and server grade level material. The latest MSI MPG Z590 Gaming Plus Intel 10th Gen and 11th Gen ATX Motherboard has 03 years warranty.",
+  "img": "msi mpg-z590-gaming-plus-.jpg",
+  "Supported CPU": "Supports 10th Gen Intel Core Processors, 11th Gen Intel Core Processors, Pentium Gold and Celeron Processors 1 Processor socket LGA1200",
+  "Chipset": "Intel Z590 Chipset",
+  "Form Factor": "ATX Form Factor",
+  "Audio": "7.1-Channel High Definition Audio Supports S/PDIF output",
+  "PCI": "3x PCIe x16 slots 2x PCIe 3.0 x1 slots (From Z590 chipset)",
+  "Type": "DDR4",
+  "Slots": "4x DDR4 memory slots,",
+  "Maximum Memory": "support up to 128GB",
+  "TPM (Trusted Platform Module )": "1x TPM module connector",
+  "Manufacturing Warranty": "03 years warranty"
+},{
+  "_id": {
+    "$oid": "63c50932851c32bb9a088816"
+  },
+  "productname": "ASUS Dual GeForce RTX 3050 8GB GDDR6 Graphics Card",
+  "category": "graphics_card",
+  "brand": "ASUS",
+  "price": "39,500৳",
+  "description": "The ASUS Dual GeForce RTX 3050 8GB Graphics Card is built on the newest NVIDIA Ampere architecture, and it combines dynamic thermal performance with wide compatibility. The 20 cm long, 2-slot card is equipped with advanced cooling solutions from top graphics cards, including two Axial-tech fans for maximum airflow to the heatsink, giving more power in less space. The GeForce RTX 30 Series GPUs provide the best performance for gamers and artists. They are powered by NVIDIA's Ampere 2nd generation RTX architecture, which includes new RT Cores, Tensor Cores, and streaming multiprocessors for the most realistic ray-traced visuals and cutting-edge AI capabilities. These improvements make the ASUS Dual the ideal alternative for gamers looking for high-end graphics performance in a small package. The ASUS Dual GeForce RTX 3050 8GB Graphics Card comes with a 03-year warranty.",
+  "img": "asus dual-geforce-rtx-3050-8gb.jpeg",
+  "Type": "GDDR6",
+  "Size": "8GB",
+  "Resolution": "7680x4320",
+  "Core Clock": "OC mode: 1807 MHz (Boost Clock) Gaming mode: 1777 MHz (Boost Clock)",
+  "Memory Clock": "14 Gbps",
+  "BUS Type": "PCI Express 4.0",
+  "Memory Interface": "128-bit",
+  "CUDA Cores": "2560",
+  "Display Port": "Yes x 3 (Native DisplayPort 1.4a)",
+  "HDMI": "Yes x 1 (Native HDMI 2.1)",
+  "HDCP": "Yes (2.3)",
+  "Connectors": "1 x 8-pin",
+  "Dimensions": "200 x 123 x 38 mm 7.87 x 4.84 x 1.496 inch",
+  "Manufacturing Warranty": "03-Year Warranty"
+},{
+  "_id": {
+    "$oid": "63c509f2851c32bb9a088817"
+  },
+  "productname": "MSI GeForce RTX 3090 Ti Gaming X Trio 24GB GDDR6X Graphics Card",
+  "category": "graphics_card",
+  "brand": "MSI",
+  "price": "196,000৳",
+  "description": "The MSI GeForce RTX 3090 Ti Gaming X Trio 24G Graphics Card is powered by Ampere NVIDIA's 2nd gen RTX architecture doubling down on ray tracing and AI performance with enhanced RT Cores, Tensor Cores, and new streaming multiprocessors. Plus, it features a staggering 24 GB of G6X memory, all to deliver the ultimate gaming experience. The MSI GeForce RTX 3090 Ti Gaming X Trio 24G brings performance, low-noise efficiency, and aesthetics that hardcore gamers have come to recognize and trust. Now you too can enjoy all your favorite games with a powerful graphics card that stays cool and silent. Just the way you like it. It's time to put on team colors. Synchronize lighting with other compatible devices to take the light show to another level. Going dark is as easy as turning the lights off. The TRI FROZR 2 thermal system has been designed for efficiency. Expect a perfect balance of cool and quiet for more fun during endless gaming sessions. TORX FAN 4.0 is built on teamwork, with pairs of fan blades bound together with a linked outer ring design that focuses airflow into the updated TRI FROZR 2 cooling system. Core Pipes are precision-machined for maximum contact over the GPU and spread the heat along the full length of the heatsink for optimal cooling. GAMING has been crafted to serve you well during intense gameplay. This legendary item has extra power unlocked through the Custom PCB. Additional fuses built into the custom PCB provide additional safeguards against electrical damage. An enhanced PCB material design with 2oz thickened copper increases conductivity, improving heat dissipation, and high-performance reliability. Solid build quality in key areas is strengthened with a rigid metal anti-bending strap. A bundled support bracket can be attached to your PC case for additional graphics card reinforcement. MSI's exclusive Dragon Center software helps you get the most out of your MSI products. Monitor, tweak, and optimize in real-time with just a few clicks. The MSI GeForce RTX 3090 Ti Gaming X Trio 24G Graphics Card comes with 3 years warranty.",
+  "img": "msi geforce-rtx-3090-ti-gaming-x-trio-24g.jpeg",
+  "Memory Type": "GDDR6X",
+  "Size": "24GB",
+  "Resolution": "7680x4320",
+  "Core Clock": "Boost: 1920 MHz",
+  "Memory Clock": "21 Gbps",
+  "BUS Type": "384-bit",
+  "Memory Interface": "PCI Express Gen 4",
+  "CUDA Cores": "10752 Units",
+  "Recommended PSU": "850W",
+  "Consumption": "450W",
+  "Dimensions": "325 x 140 x 62 mm",
+  "Manufacturing Warranty": "03 years"
+},{
+  "_id": {
+    "$oid": "63c50ad1851c32bb9a088818"
+  },
+  "productname": "SAPPHIRE PULSE AMD Radeon RX 6750 XT 12GB GDDR6 Graphics Card",
+  "category": "graphics_card",
+  "brand": "SAPPHIRE",
+  "price": "79,900৳",
+  "description": "The SAPPHIRE PULSE AMD Radeon RX 6700 XT Graphics Card runs on the powerful Dual-X Cooling Technology coupled with Intelligent Fan Control to keep temperatures low and fan noise low. The refined PCB design delivers stable, reliable, and steady performance, which efficiently lowers PCB temperature and component signal noise. It offers the ultimate 1440p gamer seeking to harness breakthrough graphics with vivid visuals and excellent quality cooling solutions. This graphics card featured a boost clock up to 2622 MHz,12GB/192 bit DDR6 Memory. It is 16 Gbps Effective and comes with 2560 Stream Processors. It is equipped with RDNA 2 Architecture and Ray Accelerator of 40. Rigged with superior components to handle AAA game scenarios, the Sapphire PULSE AMD Radeon RX 6700 XT Graphics card is a crucial component for an incredible gaming experience. The aesthetic design will be a beautiful integration into any PC build. This graphics card features 3 categories so you can easily see all the features in designing to create the best ",
+  "img": "sapphire pulse-amd-radeon-rx-6750.jpg",
+  "Memory Type": "GDDR6",
+  "Size": "12GB",
+  "Core Clock": "Boost Clock: Up to 2581 MHz Game Clock: Up to 2424 MHz",
+  "Resolution": "7680×4320",
+  "BUS Type": "192-Bit",
+  "Memory Interface": "PCI-Express 4.0",
+  "Stream Processors": "2560",
+  "Display Port": "3x DisplayPort",
+  "HDMI": "1x HDMI",
+  "Connectors": "1 x 8-pin + 1 x 6-pin Power Connector",
+  "Recommended PSU": "Minimum 650 Watt Power Supply",
+  "Consumption": "230W (Board Power)",
+  "Manufacturing Warranty": "2 Years Warranty"
+},{
+  "_id": {
+    "$oid": "63c50d2d851c32bb9a088819"
+  },
+  "productname": "GIGABYTE GeForce RTX 4080 16GB GAMING OC GDDR6X Graphics Card",
+  "category": "graphics_card",
+  "brand": "GIGABYTE",
+  "price": "187,000৳",
+  "description": "The GIGABYTE GeForce RTX 4080 16GB GAMING OC GDDR6X Graphics Card, based on the Ada Lovelace architecture and designed to handle the graphical demands of 8K gaming and high frame rates, brings the power of real-time ray tracing and AI to your PC games. The GPU has 16GB of GDDR6X VRAM and a 256-bit memory interface, which provides better performance and power efficiency than the previous Ampere-based iteration. The card's front panel includes several outputs, including DisplayPort 1.4a and HDMI 2.1. HDMI 2.1 provides up to 48 Gb/s bandwidth and a variety of higher resolutions and refresh rates, including 8K at 60 frames per second, 4K at 120 frames per second, and even 10K. The RTX 4080 is about more than simply high-resolution gaming. Computationally intensive programs can use the 9728 cores of the GPU to expedite processes using CUDA and other APIs. Gigabyte used the WINDFORCE cooling technology for cooling. The three fans rotate in opposite directions to decrease turbulence and boost airflow pressure. When the GPU is running a low-load or low-power game, the 3D Active Fan provides semi-passive cooling, and the fans turn off. The triangle fan edge splits the airflow, which is then steered smoothly along the 3D stripe curve on the fan surface. The graphene nano lubricant can improve the life of the fans while also making them quieter. It also offers RGB Fusion, which includes color customization and a range of lighting effects. It may also be used to sync with other AORUS devices. The GIGABYTE GeForce RTX 4080 16GB GAMING OC GDDR6X Graphics Card comes with a 02-year warranty.",
+  "img": "gigagyte geforce-rtx-4080-16gb-gaming-oc-.jpeg",
+  "Memory Type": "GDDR6X",
+  "Size": "16GB",
+  "Resolution": "7‎680 x 4320",
+  "Core Clock": "2535 MHz (Reference Card: 2505 MHz)",
+  "Memory Clock": "22.4 Gbps",
+  "BUS Type": "256 bit",
+  "Memory Interface": "PCI-E 4.0",
+  "CUDA Cores": "9728",
+  "Display Port": "DisplayPort 1.4a x3",
+  "HDMI": "HDMI 2.1 x1",
+  "Connectors": "16 pinx1",
+  "Recommended PSU": "8‎50W",
+  "Manufacturing Warranty": "2 years"
+},{
+  "_id": {
+    "$oid": "63c50ed8851c32bb9a08881a"
+  },
+  "productname": "Corsair VENGEANCE RGB PRO 16GB (2 x 8GB) DDR4 3200MHz C16 RAM Kit Black",
+  "category": "ram",
+  "brand": "Corsair",
+  "price": "7,800৳",
+  "description": "The Corsair VENGEANCE RGB PRO 16GB DDR4 3200MHz C16 RAM Kit Black is a high-performance DDR4 memory kit with ten ultra-bright, individually controllable RGB LEDs per module that fills your system with rich, dynamic illumination. Sync lighting across all your CORSAIR iCUE compatible goods, including memory, fans, coolers, keyboards, and more, with CORSAIR iCUE software. CORSAIR iCUE software allows you to customize lighting profiles with millions of various patterns and colors, or you may develop your own. Compatible with DDR4 motherboards from Intel and AMD. For a clean and smooth installation, no additional wires or connections are required. For the best signal quality and performance stability, use a custom-performance PCB. ICs that have been thoroughly evaluated for extended overclocking potential. Even when overclocked, the built-in aluminum heat spreader provides excellent memory cooling. Supports Intel XMP 2.0 for easy installation and optimal performance with only one setup. The Corsair VENGEANCE RGB PRO 16GB DDR4 3200MHz C16 RAM Kit Black comes with a Lifetime warranty.",
+  "img": "COSAIR vengeance-rgb-pro-16gb-ram-kit-black-.jpg",
+  "Type": "DDR4",
+  "Capacity": "Memory Size 16GB (2 x 8GB)",
+  "Operating voltage": "Tested Voltage 1.35",
+  "Latency": "Tested Latency 16-18-18-36 SPD Latency 15-15-15-36",
+  "Warranty": "Lifetime warranty"
+},{
+  "_id": {
+    "$oid": "63c51154851c32bb9a08881b"
+  },
+  "productname": "Corsair Force MP600 1TB Gen.4 PCIe NVMe M.2 SSD",
+  "category": "storage",
+  "brand": "Corsair",
+  "price": "22,200৳",
+  "description": "As a PCIe 4.0 SSD, the MP600 delivers incredible storage performance, delivering up to 10 times the sequential read and sequential write speeds of some SATA SSDs and up to 50 times the speed of some traditional HDDs. The MP600 is also fully backwards compatible with current PCIe 3.0 platforms. The MP600 is equipped with a high surface area aluminum heatsink, helping to maintain its performance even under heavy load. Provides an ideal mix of performance, endurance, and value to keep your drive performing at its best for years, with outstanding longevity up to 3,600TB Written. Easily fits directly into your new AMD X570 chipset-based motherboard, freeing up drive space in your PC to provide better airflow and easier cable routing. CORSAIR is a proud launch partner for AMD's 3rd generation of Ryzen processors. The MP600 is engineered to help you get the full benefit of PCIe 4.0 speed right out of",
+  "img": "CORSAIR force-mp600-.png",
+  "Capacity": "1 TB",
+  "Form Factor": "M.2 2280",
+  "Flash Type": "3D TLC NAND",
+  "Interface": "PCIe Gen 4.0 x4",
+  "Sequential R/W": "SSD Max Sequential Read CDM Up to 4,950MB/s SSD Max Sequential Write CDM Up to 4,250MB/s",
+  "Dimension": "80mm x 23mm x 15mm",
+  "Operating Temperature": "0°C to +70°C",
+  "Shock resistance": "1500 G",
+  "Manufacturing Warranty": "05 years"
+},{
+  "_id": {
+    "$oid": "63c51328851c32bb9a08881c"
+  },
+  "productname": "Corsair CX550M 550W 80 PLUS Bronze Semi-Modular Power Supply",
+  "category": "power_supply",
+  "brand": "Corsair",
+  "price": "5,400৳",
+  "description": "The Corsair CX-M Series CX550M 550W 80 PLUS Bronze Semi-Modular ATX Power Supply keeps your components powered up. This 550W ATX power supply includes a single +12V rail with a form factor of ATX12V v2.4 or EPS 2.92. In addition to a motherboard and CPU connector, the CX550semi-modular M's connection architecture offers two PCIe, six SATA III, three 4-pin peripheral connections, and a single floppy connector. A thermally controlled 120mm cooling fan ensures silent operation at low or medium loads. It has 80 PLUS Bronze Certification. High-efficiency operation results in less waste heat and cheaper running expenses. This power supply features a Thermally Controlled Fan and operates quietly at low and medium loads. Semi-Modular Architecture, Make your builds and upgrades a breeze, with clean, professional results. The Corsair CX-M Series CX550M 80 PLUS Bronze Power Supply comes with a 05-year warranty.",
+  "img": "cx-m-series-cx550m-01-.jpeg",
+  "Continuous Power": "550 Watts",
+  "Certification": "Bronze",
+  "Fan Size": "120mm",
+  "Voltage": "12V",
+  "Modular Type": "Semi",
+  "Manufacturing Warranty": "5 Year"
+},{
+  "_id": {
+    "$oid": "63c5143c851c32bb9a08881d"
+  },
+  "productname": "Corsair RM750e 750W 80 Plus Gold Fully Modular Power Supply",
+  "category": "power_supply",
+  "brand": "Corsair",
+  "price": "12,500৳",
+  "description": "The Corsair RM750e is a Fully Modular Low-Noise Power Supply that provides your PC with quiet, consistent power with 80 PLUS Gold efficiency. RMe PSUs provide the connections needed to power today's demanding PC gear, including two 8-pin EPS12V cables and a variety of PCIe 8-pin power connectors. Industrial-grade, 105°C-rated capacitors provide excellent electrical performance and are covered by a seven-year guarantee. With support for the new Modern Standby sleep mode, you can wake up your computer faster and use less power. Fully modular cables make PC construction simple since you just connect the cables your system requires. The CORSAIR RMe Series offers consistent power for your system, with a 140mm-long shell that works with practically any current chassis.",
+  "img": "corsair rm 750e-01-500x500.jpeg",
+  "Continuous Power": "750 Watts",
+  "Certification": "80 PLUS Gold Certification",
+  "Fan Size": "120mm",
+  "Input Current": "10A-5A",
+  "Modular Type": "Full-Moduler",
+  "AC Input": "100-240V",
+  "PCI-E": "PCIe (6+2-PIN): 3",
+  "SATA": "SATA: 7",
+  "Manufacturing Warranty": "10 Years Warranty"
+},{
+  "_id": {
+    "$oid": "63c51eb3851c32bb9a08881e"
+  },
+  "productname": "Lian Li LANCOOL 205 Mesh ATX Mid Tower Gaming Case White",
+  "category": "casing",
+  "brand": "Lian Li",
+  "price": "8,200৳",
+  "description": "The Lian Li LANCOOL 205 Mesh is a powerful and stylish case. It is strong and compact. The LANCOOL 205 Mesh Case is specifically designed for cooling high-performance hardware and offers extensive airflow and also the front cover is essentially made up of mesh. It is radiators friendly on top and front, with ease of using removable mounting brackets. The Lian Li LANCOOL 205 Mesh is a case that improves the airflow and comes with 2 ARGB PWM 140mm fans and one ARGB PWM 120mm fan. It has 7 expansion slots. It comes with 1 x Front Removable mesh panel, 1 x Bottom Removable Dust Filter, 1 x Top Magnetic Dust Filter. This Case also support Top: 2 X 120/140mm with removable fan bracket. The Lian Li LANCOOL 205 Mesh case has Power Button, LED Color Button, LED Mode Button, USB 3.0 x 2,Audio, Microphone. This casing is compatible with ATX/M-ATX/Mini-ITX motherboards. The LANCOOL 205 Mesh casing has no warranty.",
+  "img": "lian li lancool-205-mesh-white-01-.jpg",
+  "Type": "Tower Chassis",
+  "Tempered Glass Panel": "Side panel",
+  "Motherboard Support": "ATX/ M-ATX/ Mini-ITX",
+  "Color(s)": "White",
+  "Dimensions": "205 mm (W) x 415 mm (D) x 485 mm (H)",
+  "Expansion Slots": "7",
+  "Radiator Support": "Top: 240mm/ 280mm Rear:120mm",
+  "Fan Support": "Top: 2 X 120/140mm",
+  "Pre- Installed Fans": "Front: 2 X 140mm 1200 RPM ARGB PWM fan Rear: 120mm 1500 RPM ARGB PWM fan",
+  "Drive Bays": "4 x 2.5″ SSD or 2 x 2.5″ SSD+ 2 x 3.5″ HDD",
+  "I/O Port": "Power Button, LED Color Button, LED Mode Button, USB 3.0 * 2,Audio, Microphone",
+  "PSU": "165mm(Max)",
+  "Side Panel": "Tempered Glass",
+  "Warranty": "No warranty"
+},{
+  "_id": {
+    "$oid": "63c51fa2851c32bb9a08881f"
+  },
+  "productname": "Corsair Crystal iCUE 465X RGB Mid-Tower ATX Smart Case",
+  "category": "casing",
+  "brand": "Corsair",
+  "price": "15,200৳",
+  "description": "None.",
+  "img": "corsair crystal-465x-001-.jpg",
+  "Type": "Mid-Tower",
+  "Tempered Glass Panel": "Yes",
+  "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
+  "Color(s)": "Black",
+  "Weight": "8kg",
+  "Dimensions": "467mm x 216mm x 455mm",
+  "Expansion Slots": "7+2 vertical",
+  "Radiator Support": "120mm, 140mm, 240mm, 280mm, 360mm",
+  "Pre- Installed Fans": "Corsair SP120 Fans x 3",
+  "Drive Bays": "Case Drive Bays 3.5\": 2 Case Drive Bays 2.5\": 2",
+  "PSU": "180mm",
+  "Maximum Graphics Card Length": "370mm",
+  "Warranty": "No Warranty"
+}]
